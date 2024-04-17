@@ -19,9 +19,9 @@ here you can take a look at my projetcs, which goes from Electronic Engineering 
 <img src='https://play-lh.googleusercontent.com/y1bRYrr0fpfH-_Nw7XiaaiO6YBCzVIOn4B0M3dZKiHdMlEWhh3N5w_Tn7QrFWFMvZ_8' width=128 height=128>
 <img src='https://static-00.iconduck.com/assets.00/raspberry-pi-icon-2048x2048-p0y4r07x.png' width=128 height=128>
 ## Favorite Albuns
-<br>
+<div style="display: flex; justify-content: space-around;">
 <img src='https://upload.wikimedia.org/wikipedia/pt/e/e1/GLM.jpg' width=128 height=128>
-<img src='https://upload.wikimedia.org/wikipedia/pt/5/51/TudoFoiFeitoPeloSol.jpg' width=128 height=128> 
-<br> 
+<img src='https://upload.wikimedia.org/wikipedia/pt/5/51/TudoFoiFeitoPeloSol.jpg' width=128 height=128>  
 <img src='https://f4.bcbits.com/img/a3727867189_65' width=128 height=128>
 <img src='https://lastfm.freetls.fastly.net/i/u/avatar170s/57a06359828b4ecaceb3332b66e3b12b.jpg' width=128 height=128>
+</div>
