@@ -8,7 +8,7 @@ here you can take a look at my projetcs, which goes from Electronic Engineering 
   - ⚡ Fun fact: I really love music 
  ## 📫 How to reach me:
 - Youtube: [@7joaojari7](https://www.youtube.com/@7joaojari7)
-- Email:  [7joaojari7@gmail.com] (mailto:7joaojari7@gmail.com) 
+- Email:  [7joaojari7@gmail.com](mailto:7joaojari7@gmail.com) 
 ## Technologies
 ![Pascal](https://img.shields.io/badge/Pascal-FF0000?logo=Delphi&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00B6FF?logo=arduino&logoColor=white&style=for-the-badge)
