@@ -2,7 +2,7 @@
 Hi there! I am João Jari, a Robotics Enthusiast.
 here you can take a look at my projetcs, which goes from Electronic Engineering to Mathematical Implementations.
 <br>  
-  - 🌱 I’m currently learning Electrical Computer Engineering
+  - 🌱 I’m currently learning Electrical Computer Engineering and Information Techonlogy
   - 💬 Ask me about [Progressive Rock](https://www.youtube.com/watch?v=ZiRuj2_czzw) or [Evangelion](https://www.youtube.com/watch?v=fShlVhCfHig)
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: I really love music 
